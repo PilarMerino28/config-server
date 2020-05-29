@@ -1,4 +1,4 @@
 test:
-  name: testNameV2
-  address: testAddressV2
+  name: Name
+  address: Address
   age: 25
