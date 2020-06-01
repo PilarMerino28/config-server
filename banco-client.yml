@@ -1,18 +1,4 @@
-{"json":[
-  "users": [
-    {
-      "name": "John",
-      "age": 25
-    },
-    {
-      "name": "Mark",
-      "age": 29
-    },
-    {
-      "name": "Sarah",
-      "age": 22
-    }
-  ],
-  "dataTitle": "JSON Tutorial",
-  "swiftVersion": 2.1
-]}
+"test":
+  "name": TestName
+  "age": 25
+  "address": Address
