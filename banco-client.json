@@ -1,4 +1,5 @@
 {
+"json":[
   "users": [
     {
       "name": "John",
@@ -15,4 +16,4 @@
   ],
   "dataTitle": "JSON Tutorial",
   "swiftVersion": 2.1
-}
+]}
